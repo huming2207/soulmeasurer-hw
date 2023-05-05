@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "JackcoLib")(type "KiCad")(uri "${KIPRJMOD}/../external/jackcolib/JackcoLib.pretty")(options "")(descr ""))
+)
